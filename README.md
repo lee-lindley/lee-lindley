@@ -1,11 +1,5 @@
 My [technical blog](https://lee-lindley.github.io) has articles on a mish-mash of topics, mostly on solving problems using Oracle tools.
 
-My [current resume](https://github.com/lee-lindley/resume) is stored here on github. 
-I'm generally interested in new opportunities. I get satisfaction helping teams improve their application development techniques 
-with Oracle, and also general improvement to the operation of a professional software development team. This includes
-SDLC process, documentation writing, and helping partner organizations (business operations, QA, etc..) 
-improve their operations and interaction with IT.
-
 Although the pinned projects below are the ones most likely to be of use, there are others you can find
 in my repostory list which is reachable from a link above. 
 
